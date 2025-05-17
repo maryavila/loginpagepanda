@@ -2,7 +2,7 @@
 
 Este projeto é um formulário de login divertido e interativo com um panda animado que reage aos campos de entrada! 🐾
 
-![Panda Login Preview](./preview.png)
+![Panda Login Preview](img/screenshot1panda.png)
 
 ## ⊹₊ ⋆✨ Funcionalidades
 
@@ -18,12 +18,16 @@ Este projeto é um formulário de login divertido e interativo com um panda anim
 - JavaScript (puro)
 
 ## ˙✧˖°📷 ༘ ⋆｡˚Screenshots
+![Foco no Usuário](img/screenshotpanda2.png)
+
+![Foco na Senha](img/screenshot3panda.png)
+
 
 
 ## ‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾. Como usar
 
 1. Clone o repositório:
-git clone https://github.com/seu-usuario/panda-login-form.git
+git clone https://github.com/maryavila/loginpagepanda
 
 2. Abra o arquivo index.html no seu navegador.
 
